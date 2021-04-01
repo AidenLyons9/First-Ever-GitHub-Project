@@ -1,0 +1,19 @@
+* {
+    font-family: Montserrat;
+    text-align: center;
+}
+
+/* p {
+    background-color: #d4d4d4;
+} */
+
+#dbresults {
+    border: solid 1px lightgrey;
+    padding: 20px 40px;
+  }
+
+#map {
+    height: 300px;
+    margin-top: 20px;
+}
+  
